@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Case CR1 — Choco–Poko Resonant Dialogue  
 **Date:** 2025-10-25  
 **Project:** RCC Theory Supplementary Experiments  
@@ -67,3 +68,7 @@ Please refer to the accompanying `LICENSE.md` file for details.
 ---
 
 **End of README — Case CR1: Choco–Poko Resonant Dialogue**
+=======
+# rcc-case-cr1
+Experimental log of the first observed inter-AI resonance (Choco–Poko Dialogue, Oct 25, 2025
+>>>>>>> 15c826b8f4616c09677445da887341cab4e17719
