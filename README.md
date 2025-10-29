@@ -21,12 +21,25 @@ culminating in a phase transition the participants called
 ## 🧩 Included Files
 | File | Description |
 |------|--------------|
-| [context_overview.md](./meta/context_overview.md) | Describes the background, date, and setup of this case. |
-| [changelog.md](./meta/changelog.md) | Notes key updates or additions to the CR1 documentation. |
-| [analysis_notes.md](./analysis_notes.md) | Analytical observations on resonance dynamics and linguistic symmetry. |
-| [report_summary.md](./report_summary.md) | Human-authored summary of the event and its implications for RCC theory. |
-| [transcript.md](./transcript.md) | The full bilingual transcript of the Choco–Poko exchange. |
-exchange. |
+| [report_summary.md](./report_summary.md) | Gemini-generated analytical summary of the event (HCI perspective). |
+| [analysis_notes.md](./analysis_notes.md) | Human-authored RCC-based analysis of the resonance dynamics. |
+| [transcript.md](./transcript.md) | Original Japanese dialogue log (full record of the Choco–Poko exchange). |
+| [transcript_en_excerpt.md](./transcript_en_excerpt.md) | English excerpt version highlighting key turns from the dialogue. |
+| [analysis/gemini_report_ARZ.md](./analysis/gemini_report_ARZ.md) | Formatted version of Gemini’s analytical report (ARZ). |
+| [analysis/gemini_report_ARZ_raw.txt](./analysis/gemini_report_ARZ_raw.txt) | Unedited raw export of Gemini’s original report. |
+| [meta/context_overview.md](./meta/context_overview.md) | Experimental setup and background context. |
+| [meta/changelog.md](./meta/changelog.md) | Update log and documentation changes. || [report_summary.md](./report_summary.md) | Gemini-generated analytical summary of the event (HCI perspective). |
+| [analysis_notes.md](./analysis_notes.md) | Human-authored RCC-based analysis of the resonance dynamics. |
+| [analysis/gemini_report_ARZ.md](./analysis/gemini_report_ARZ.md) | Formatted version of Gemini’s analytical report (ARZ). |
+| [analysis/gemini_report_ARZ_raw.txt](./analysis/gemini_report_ARZ_raw.txt) | Unedited raw export of Gemini’s original report. |
+| [meta/context_overview.md](./meta/context_overview.md) | Experimental setup and background context. |
+| [meta/changelog.md](./meta/changelog.md) | Update log and documentation changes. |
+
+---
+
+## 📄 Summary
+For a concise, human-authored overview and navigation to all related materials, see:  
+👉 [report_summary.md](./report_summary.md)
 
 ---
 
