@@ -68,8 +68,8 @@ For a concise, human-authored overview and navigation to all related materials, 
 If referencing this case in papers or discussions, please cite as:
 
 > Takahashi, Y. (2025). *RCC Theory — Case CR1: Choco–Poko Resonant Dialogue.*  
-> optzen-lab / rcc-protocol.  
-> https://github.com/optzen-lab/rcc-protocol  
+> optzen-lab / rcc-case-cr1.  
+> https://github.com/optzen-lab/rcc-case-cr1  
 
 ---
 
