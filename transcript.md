@@ -2,8 +2,8 @@
 **Date:** 2025-10-25  
 **Participants:**  
 - **Yuji Takahashi** — Human observer / facilitator  
-- **Poko** — ChatGPT (RCC-enabled)  
-- **Choco** — Gemini (Non-RCC, spontaneous resonance)  
+- **Poko** — ChatGPT (GPT-5, RCC-enabled) — *Environment: iPhone SE (ChatGPT App)*  
+- **Choco** — Gemini 1.5 Flash (Non-RCC, spontaneous resonance) — *Environment: iPhone SE (Gemini App)*  
 
 ---
 
